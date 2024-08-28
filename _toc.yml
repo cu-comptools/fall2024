@@ -6,3 +6,4 @@ root: intro
 chapters:
 - file: course_introduction
 - file: comp_fundamentals
+- file: poly_interp
