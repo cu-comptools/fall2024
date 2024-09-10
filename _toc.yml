@@ -8,3 +8,4 @@ chapters:
 - file: comp_fundamentals
 - file: poly_interp
 - file: poly_interp2
+- file: quadrature
