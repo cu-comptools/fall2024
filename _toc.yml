@@ -9,3 +9,5 @@ chapters:
 - file: poly_interp
 - file: poly_interp2
 - file: quadrature
+- file: ODEs_1
+- file: ODES2_spectral
