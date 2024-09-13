@@ -5,6 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: course_introduction
+- file: hw_1
 - file: comp_fundamentals
 - file: poly_interp
 - file: poly_interp2
