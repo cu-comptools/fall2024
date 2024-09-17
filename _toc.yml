@@ -12,3 +12,4 @@ chapters:
 - file: quadrature
 - file: ODEs_1
 - file: ODES2_spectral
+- file: ODEs_3_asymptotic
