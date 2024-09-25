@@ -13,3 +13,4 @@ chapters:
 - file: ODEs_1
 - file: ODES2_spectral
 - file: ODEs_3_asymptotic
+- file: adaptivity_stiffness_control_1
