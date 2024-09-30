@@ -5,6 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: hw_1
+- file: hw_1_sol
 - file: papers
 - file: course_introduction
 - file: comp_fundamentals
@@ -15,3 +16,5 @@ chapters:
 - file: ODES2_spectral
 - file: ODEs_3_asymptotic
 - file: adaptivity_stiffness_control_1
+- file: special_quad_osc
+- file: special_quad_sing
