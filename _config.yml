@@ -3,7 +3,7 @@
 
 title: Computational Tools for Multiscale Problems
 author: Fruzsina Julia Agocs
-logo: img/logo.png
+logo: img/logo.jpeg
 
 exclude_patterns: [README.md]
 
@@ -43,7 +43,7 @@ launch_buttons:
 html:
   use_issues_button: true
   use_repository_button: true
-  favicon: img/logo.jpg
+  favicon: img/logo.png
 
 sphinx:
   config:
